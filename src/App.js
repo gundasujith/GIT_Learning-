@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Learn React and practice git gundasujith11@gmail.com.
+          Learn React and practice git gundasujith11@gmail.com and start working learning git as discussed and is the time.
         </a>
       </header>
     </div>
